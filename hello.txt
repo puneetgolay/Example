@@ -2,4 +2,6 @@ Hello, this is a git file.
 
 This is local folder.
 
+Now it is pushed.
+
 
